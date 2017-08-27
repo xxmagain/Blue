@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLEQianDao</string>
+    <string name="unknown_device">未知的设备</string>
+</resources>
